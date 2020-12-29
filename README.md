@@ -1,6 +1,6 @@
 # Django demo
 
-1. Install Django Django: ``pip install Django``
+1. Install Django: ``pip install Django``
 
 2. Run server use command:  ``python manage.py runserver``
 
